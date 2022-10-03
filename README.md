@@ -1,4 +1,4 @@
-# akilli-tahta-sifreleri
+# Akıllı Tahta Şifresi/Şifreleri
  Akıllı Tahta EBAAdmin, MEB-SBStd-User şifreleri.
 
 # Faz 1	
